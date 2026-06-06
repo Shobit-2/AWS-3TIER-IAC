@@ -310,10 +310,4 @@ availability_zones = ["us-west-2a", "us-west-2b"]
 - [AWS EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/)
 - [Original 3-Tier Architecture](https://github.com/iamtejasmane/aws-three-tier-web-app)
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and improvements.
