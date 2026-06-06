@@ -1,6 +1,6 @@
 # AWS 3-Tier Web Application Infrastructure as Code
 
-This repository contains Terraform configuration to deploy a complete 3-tier web application on AWS, based on the architecture from [aws-three-tier-web-app](https://github.com/iamtejasmane/aws-three-tier-web-app).
+This repository contains Terraform configuration to deploy a complete 3-tier web application on AWS
 
 ## Architecture Overview
 
